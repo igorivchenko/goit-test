@@ -1,0 +1,13 @@
+footer {
+  padding-block: 60px;
+  background-color: lightgrey;
+}
+
+footer p {
+  display: block;
+  color: lightcoral;
+  font-size: 30px;
+  margin-inline: auto;
+  width: 300px;
+  text-align: center;
+}
