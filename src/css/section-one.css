@@ -1,0 +1,12 @@
+.section-one {
+  padding-block: 40px;
+  background-color: brown;
+}
+
+.section-one h1 {
+  display: block;
+  font-size: 46px;
+  font-style: italic;
+  color: cadetblue;
+  text-align: center;
+}
